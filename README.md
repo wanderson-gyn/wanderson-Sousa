@@ -1,6 +1,6 @@
 ## Opa, Bem vindo ao meu espaço!!
 
-- 📖 Atualemnte estudo Algoritmo e Lógica de Programação
+- 📖 Atualmente estudo Algoritmo e Lógica de Programação
 - 📚 Tambem estudo HTML e CSS
 
 <div align="center">
